@@ -15,14 +15,9 @@ setup(
     author_email='danielmello.dev@gmail.com',
     license='GPLv3',
     install_requires=[
-        'pandas==2.2.1',
-        'numpy==1.26.4',
-        'prettytable==3.10.0',
-        'matplotlib==3.8.3',
-        'colorama==0.4.6',
-        'openpyxl==3.1.2',
-        'dmtoolbox==0.1.22',
-        
+        'pyinstaller==6.4.0',
+        'pefile==2023.2.7',
+        'dmtoolbox==0.1.22'
     ],
     python_requires='>=3.6',
     url='https://github.com/DanielMelloo/dmtoolbox-win',

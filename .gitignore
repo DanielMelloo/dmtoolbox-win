@@ -5,9 +5,11 @@ pkg_prod/
 __pycache__/
 
 # Arquivos de lembrete pessoal
+comandos.txt
 
 # Outros arquivos que geralmente são ignorados
 .DS_Store
 .vscode/
 .idea/
 *.swp
+.gitignore

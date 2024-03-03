@@ -1,3 +1,29 @@
+Metadata-Version: 2.1
+Name: dmtoolbox-win
+Version: 0.1.0
+Summary: Uma extensão do dmtoolbox focada em funcionalidades específicas do Windows, incluindo manipulação de registros, criação de executáveis e gerenciamento de arquivos e configurações avançadas do sistema.
+Home-page: https://github.com/DanielMelloo/dmtoolbox-win
+Author: Daniel Mello
+Author-email: danielmello.dev@gmail.com
+License: GPLv3
+Keywords: utils automation numpy pandas matplotlib
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyinstaller==6.4.0
+Requires-Dist: pefile==2023.2.7
+Requires-Dist: dmtoolbox==0.1.22
+
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DanielMelloo/dmtoolbox-win?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/DanielMelloo/dmtoolbox-win?style=for-the-badge)
