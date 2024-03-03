@@ -47,18 +47,18 @@
 ## Funcionalidades dos Módulos
 Cada módulo traz um conjunto de funcionalidades específicas, detalhadas a seguir:
 
-### [appdataGen.py](https://github.com/DanielMelloo/dmtoolbox/blob/main/dmtoolbox-win/appdataGen.py)
+### [appdataGen.py](https://github.com/DanielMelloo/dmtoolbox-win/blob/main/dmtoolbox-win/appdataGen.py)
 - Gerencia arquivos e diretórios no AppData LocalLow, permitindo a criação personalizada de estruturas de diretórios e arquivos de configuração.
 
-### [createExeOnC.py](https://github.com/DanielMelloo/dmtoolbox/blob/main/dmtoolbox-win/createExeOnC.py)
+### [createExeOnC.py](https://github.com/DanielMelloo/dmtoolbox-win/blob/main/dmtoolbox-win/createExeOnC.py)
 
 - Facilita a criação de cópias da aplicação no disco local C, útil para a distribuição de software ou instalação local rápida.
 
-### [exeGenerator.py](https://github.com/DanielMelloo/dmtoolbox/blob/main/dmtoolbox-win/exeGenerator.py)
+### [exeGenerator.py](https://github.com/DanielMelloo/dmtoolbox-win/blob/main/dmtoolbox-win/exeGenerator.py)
 - Utiliza o PyInstaller para converter scripts Python em executáveis autônomos, simplificando a distribuição de aplicações.
   
 
-### [regedit.py](https://github.com/DanielMelloo/dmtoolbox/blob/main/dmtoolbox-win/regedit.py)
+### [regedit.py](https://github.com/DanielMelloo/dmtoolbox-win/blob/main/dmtoolbox-win/regedit.py)
 - Permite a criação e gerenciamento de entradas de registro do Windows, facilitando a integração com o sistema operacional.
 
 ## Instalação do Pacote dmtoolbox
